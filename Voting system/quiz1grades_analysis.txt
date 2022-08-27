@@ -1,0 +1,5 @@
+The number of students who scored between 0 and 20 is:0
+The number of students who scored between 20 and 40 is:0
+The number of students who scored between 40 and 60 is:0
+The number of students who scored between 60 and 80 is:42
+The number of students who scored between 80 and 100 is:58

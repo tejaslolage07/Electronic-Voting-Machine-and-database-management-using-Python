@@ -1,0 +1,2 @@
+The voter details are: 
+   ID1   {'Name': 'tejas', 'Aadhar number': '10982367', 'Year of birth': '299', 'Address': 'poiahsd'}

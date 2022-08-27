@@ -1,0 +1,3 @@
+The candidate details are: 
+   ID1   {'Name': 'tejas', 'Aadhar number': '102983', 'Year of birth': '200', 'Address': 'poaihs'}
+   ID2   ['None of the above']
